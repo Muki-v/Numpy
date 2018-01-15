@@ -8,6 +8,8 @@ print("base_data = \n{}\n".format(base_data))
 print("base_data.T = \n{}\n".format(base_data.T))                                            # 转置
 print("base_data.transpose() = \n{}\n".format(base_data.transpose()))
 
+
+
 matrix_one = np.ones((5, 5))
 print("matrix_one = \n{}\n".format(matrix_one))
 
